@@ -1,0 +1,8 @@
+owner=449339893626306563
+prefix=pa
+game= pnplay
+stayinchannel=true
+songinstatus=false
+token=NTczNTc0NDA5ODI3Mzg1MzQ5.XMs03A.V4Bj-EQjAV5QsxklHhoRIBGiu_g
+
+
